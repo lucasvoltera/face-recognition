@@ -2,4 +2,4 @@ data
 data/female/*.jpg
 data/male/*.jpg
 data/data.zip
-crop data
+crop_data
