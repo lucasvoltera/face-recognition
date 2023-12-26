@@ -3,3 +3,4 @@ data/female/*.jpg
 data/male/*.jpg
 data/data.zip
 crop_data
+.vercel
